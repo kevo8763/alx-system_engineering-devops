@@ -1,1 +1,1 @@
-prints the absolute path name of the current working directory
+In this project we shall cover the basics of shellcommands
